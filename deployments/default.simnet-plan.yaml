@@ -50,6 +50,16 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
+            contract-name: iot-integration
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/iot-integration.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: product-nft
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/product-nft.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: product-registration
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/product-registration.clar
@@ -58,5 +68,10 @@ plan:
             contract-name: supply-chain-checkpoints
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/supply-chain-checkpoints.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: verification-process
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/verification-process.clar
             clarity-version: 2
       epoch: "2.5"

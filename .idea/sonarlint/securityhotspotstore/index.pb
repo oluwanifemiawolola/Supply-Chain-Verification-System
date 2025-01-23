@@ -17,3 +17,9 @@ J
 contracts/product-nft.clar,6/8/6869b4ccb97a317dc279df462aee9bc2e646fbff
 N
 contracts/iot-integration.clar,d/5/d53452ec45c20956d85d24ae67d8a59474ad4599
+M
+tests/iot-integration.test.ts,c/b/cb7c60aba045aa478fec259a880227d84f9a1437
+I
+tests/product-nft.test.ts,1/3/13fdc0b85b79b55f99ad463cc78a0d0e13c0ad8c
+R
+"tests/verification-process.test.ts,e/d/ed185389d7baf438dd383827b65ca8d0a2695a56
