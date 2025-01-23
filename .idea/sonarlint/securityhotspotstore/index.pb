@@ -15,3 +15,5 @@ S
 #contracts/verification-process.clar,f/c/fc05d97aaa18367ffb12fbb3ac001c111dfcac23
 J
 contracts/product-nft.clar,6/8/6869b4ccb97a317dc279df462aee9bc2e646fbff
+N
+contracts/iot-integration.clar,d/5/d53452ec45c20956d85d24ae67d8a59474ad4599

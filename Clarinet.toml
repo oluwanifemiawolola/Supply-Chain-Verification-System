@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.iot-integration]
+path = 'contracts/iot-integration.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.product-nft]
 path = 'contracts/product-nft.clar'
 clarity_version = 2
