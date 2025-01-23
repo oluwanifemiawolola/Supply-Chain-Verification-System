@@ -13,3 +13,5 @@ R
 "tests/product-registration.test.ts,d/0/d013af03e56d1e1dfff08e30a2442b43c3a73245
 S
 #contracts/verification-process.clar,f/c/fc05d97aaa18367ffb12fbb3ac001c111dfcac23
+J
+contracts/product-nft.clar,6/8/6869b4ccb97a317dc279df462aee9bc2e646fbff
