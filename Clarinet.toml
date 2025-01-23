@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/supply-chain-checkpoints.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.verification-process]
+path = 'contracts/verification-process.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
